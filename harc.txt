@@ -1,0 +1,2 @@
+default parametr
+count of ctor
